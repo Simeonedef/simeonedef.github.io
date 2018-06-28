@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "China is looking for the right thing"
-date:   2018-06-28 10:10:00 +0200
+date:   2018-06-27 10:10:00 +0200
 categories: China Digital Era
 ---
 
