@@ -27,11 +27,9 @@ github_username:  simeonedef
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: Type-on-strap
 plugins:
   - jekyll-feed
-
-remote_theme: Type-on-strap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
