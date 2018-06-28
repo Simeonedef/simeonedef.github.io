@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "China is looking for the right thing"
-date:   2018-06-27 00:23:00 +0200
+date:   2018-06-28 10:10:00 +0200
 categories: China Digital Era
 ---
 
-Does it mean that we are looking for the wrong thing ?
+######Does it mean that we are looking for the wrong thing ?
 The west has been following the "Worse is better" trend while China has been following the "Right thing"/"Better is better" trend. So no, we are looking for 'worse' because to us, it is 'better'.
 
-How can worse be better ?
+######How can worse be better ?
 Behind this oxymoronic phrase hides a concept conceived by Richard P. Gabriel describing the dynamics of software acceptance. This idea brings the perspective that quality does not necessarily increase with functionality, that it is potentially preferable to have less functionality in terms of practicality and usability.
 Software design and computer science in general is a field that is largely dictated by what the market needs. In general, faced with a problem, we are going to have to choose between a technical solution and a business solution; and usually the business solution is going to win. This means that it is going to be better to ship a product with reduced functionality but that works perfectly, than working on a 'perfect' solution integrating everything that will not meet the deadline/never be able to reach the market.
 
-How is this concept relevant to us, in the west ?
+######How is this concept relevant to us, in the west ?
 In mobile development, we have seen the rise of 'App constellations' where we have many apps focused on single tasks, often from the same big companies thus offering deep linking in between these apps. One very obvious example of that is the separation between the main facebook app and the facebook messenger app. These constellations provide small simple task driven apps with reduced functionality so that they can be shipped individually. There are many reasons why this trend works; first of all, it is almost impossible to integrate all the features you originally planned on first try without sacrificing the simplicity aspect; second of all we have limited resources and the more time an app spends in development the harder it is for it to be profitable.
 
 China follows the exact opposite approach. Over there, everyone does everything, apps are jam-packed with features and functionalities that to us seem completely irrelevant to the primary use of the app. Banks are opening up their own e-commerce platforms, like ICBC. Wechat, originally a chat app dubbed the chinese whatsapp, provides a public wall for users to post content, has become a method of payment, and more recently has been trying to compete with the app stores by providing their own language to develop 'mini-programs' in. Apps in China are all competing for audience retention, whoever has the most 'eyeballs' wins the race. The result of this is that, it is seen as simpler to have one app that does everything rather than a collection of apps that are simpler to use and more focused.
