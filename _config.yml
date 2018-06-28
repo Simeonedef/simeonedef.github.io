@@ -31,7 +31,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-remote-theme: Type-on-strap
+remote_theme: Type-on-strap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
