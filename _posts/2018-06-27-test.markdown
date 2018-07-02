@@ -1,8 +1,0 @@
----
-layout: post
-title:  "This is a test"
-date:   2018-06-27 17:09:00 +0200
-categories: jekyll update
----
-This is kind of a test blog post, jekyll so far seems quite useful as a blogging
-technology. This is written in markdown which let's face it I'm not entirely sure how it works.
