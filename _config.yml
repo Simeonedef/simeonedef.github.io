@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>A singular point of view floating in the digital era.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -26,14 +26,14 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: 'http://facebook.com/simeone.defremond'
   flickr:
   gitlab:
   github: "simeonedef"
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin: 'http://linkedin.com/in/sim%C3%A9one-d-500806a3' # Full URL
   pinterest:
   reddit:
   soundcloud:
