@@ -2,7 +2,8 @@
 layout: post
 title:  "On the importance of spending time alone"
 date:   2021-08-25 16:07:00 +0200
-categories: life  
+categories: life
+tags: [life]  
 ---
 
 As an only child, I am quite terrified at the idea of being alone. I have grown up surrounded by the reminder that outside of my parents, half of my grandparents, no one in this world will love me and support me unconditionally. And that, as nature wants it, one day all of these people will disappear and the only person who will be there for me is myself. We never know when this day might come, there have been already quite a few close calls in my short life already.

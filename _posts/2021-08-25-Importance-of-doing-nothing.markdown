@@ -2,7 +2,8 @@
 layout: post
 title:  "On the importance of doing nothing"
 date:   2021-08-25 14:42:00 +0200
-categories: life  
+categories: life
+tags: [life]  
 ---
 
 Growing up, going to piano lessons at the conservatory, with the same teacher for about 10 years, he and I would always start our lessons with a bit of small talk. Ranging from what I have been learning at school, to life habits, no stones were left unturned.

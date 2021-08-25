@@ -3,6 +3,7 @@ layout: post
 title:  "What we have to learn from Chinese Company Culture"
 date:   2018-06-28 15:25:00 +0200
 categories: China Digital Era
+tags: [China]
 ---
 
 For a long time China has been hermetic to western culture which allowed them to develop company cultures and mindsets from scratch specific to their population. Many behaviors that we would find incongruous are standard in their part of the world. Chinese company culture could be described as a mixture of 'test and learn' with a focus on productivity.  
